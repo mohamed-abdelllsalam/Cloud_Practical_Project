@@ -12,6 +12,9 @@ from utils import root
 from PIL import ImageTk , Image
 import os
 
+
+##### Beshary & Abdelkader #####
+
 initialize_database()  
 
 image_path = r"images/bank.jpg"
